@@ -1,10 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e9d5ff,50:c4b5fd,100:7c3aed&text=&fontSize=0" />
-
 # ✨ Olá, eu sou a Day ✨
 
-Sou **estudante de Ciência da Computação**, com atuação em **desenvolvimento de software**, **integrações com IA** e **chatbots**. Tenho perfil analítico, gosto de soluções bem estruturadas e valorizo código limpo, organização e aprendizado contínuo.
+> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."* — Cl 3:23
 
-Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
+Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idiomas e criação. Caminho com calma, constância e propósito — valorizando o que é bem feito, simples e verdadeiro. Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
 
 ---
 
