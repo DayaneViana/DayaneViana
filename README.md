@@ -7,7 +7,7 @@ Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, 
 
 ---
 
-## ✨ Sobre mim
+## 🦋 Sobre mim
 
 * 🎓 Estudante de Ciência da Computação (6º semestre)
 * 💻 Estagiária em TI, atuando com **desenvolvimento**, **IA** e **chatbots**
