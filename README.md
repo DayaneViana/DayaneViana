@@ -67,11 +67,11 @@ Interfaces modernas, acessíveis e organizadas, com atenção à experiência do
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
-<a href="https://www.linkedin.com/in/dayane-viana-32924226a/" target="_blank">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-viana-32924226a/)
 
-<a href="dayane3010@gmail.com">
+[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayane3010@gmail.com)
 
 
 ---
