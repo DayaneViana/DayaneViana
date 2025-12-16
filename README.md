@@ -7,7 +7,7 @@ Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, 
 
 ---
 
-## 🦋 Sobre mim
+## 👾 Sobre mim
 
 * 🎓 Estudante de Ciência da Computação (6º semestre)
 * 💻 Estagiária em TI, atuando com **desenvolvimento**, **IA** e **chatbots**
@@ -15,7 +15,7 @@ Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🪛 Tecnologias & Ferramentas
 
 **Linguagens**
 
@@ -42,7 +42,7 @@ Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, 
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📈 Projetos em Destaque
 
 ### 🔹 MCP – Sistema com IA Conversacional
 
@@ -58,7 +58,7 @@ Interfaces modernas, acessíveis e organizadas, com atenção à experiência do
 
 ---
 
-## 🌱 Atualmente estudando
+## 📚 Atualmente estudando
 
 * Inteligência Artificial aplicada
 * LLMs e automação
@@ -67,13 +67,14 @@ Interfaces modernas, acessíveis e organizadas, com atenção à experiência do
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&text_color=6b21a8&icon_color=7c3aed&title_color=5b21b6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b5cf6&icon_color=a78bfa&title_color=7c3aed)
+
 
 ![snake animation](https://raw.githubusercontent.com/DayaneViana/DayaneViana/output/github-contribution-grid-snake.svg)
