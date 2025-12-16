@@ -69,20 +69,10 @@ Interfaces modernas, acessíveis e organizadas, com atenção à experiência do
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayane-viana-32924226a/)
-
-[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayane3010@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 ---
-
-> Caminhando com fé, disciplina e curiosidade. Um passo bem dado vale mais que mil corridas apressadas.
-
-
-
-
-
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&text_color=6b21a8&icon_color=7c3aed&title_color=5b21b6)
 
