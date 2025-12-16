@@ -6,4 +6,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&text_color=374151&icon_color=111827)
 
-![snake animation](https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/DayaneViana/DayaneViana/output/github-contribution-grid-snake.svg)
