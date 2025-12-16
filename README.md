@@ -18,28 +18,9 @@ Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, 
 
 ## 🪛 Tecnologias & Ferramentas
 
-**Linguagens**
-
-* Python
-* JavaScript / TypeScript
-* SQL
-
-**Front-end**
-
-* React
-* HTML5 / CSS3
-
-**Back-end & IA**
-
-* APIs REST
-* Chatbots com LLMs
-* Integrações com IA (Python)
-
-**Outros**
-
-* Git & GitHub
-* Metodologias Ágeis (Scrum)
-* WordPress (wpgetapi)
+| Linguagens                               | Front-end             | Back-end & IA                                                 | Outros                                        |
+| ---------------------------------------- | --------------------- | ------------------------------------------------------------- | --------------------------------------------- |
+| Python<br>JavaScript / TypeScript<br>SQL | React<br>HTML5 / CSS3 | APIs REST<br>Chatbots com LLMs<br>Integrações com IA (Python) | Git & GitHub<br>Scrum<br>WordPress (wpgetapi) |
 
 ---
 
