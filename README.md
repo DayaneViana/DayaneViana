@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e9d5ff,50:c4b5fd,100:7c3aed&text=&fontSize=0" />
-## ✨ Olá, eu sou a Day ✨
+
+# ✨ Olá, eu sou a Day ✨
 
 Sou **estudante de Ciência da Computação**, com atuação em **desenvolvimento de software**, **integrações com IA** e **chatbots**. Tenho perfil analítico, gosto de soluções bem estruturadas e valorizo código limpo, organização e aprendizado contínuo.
 
