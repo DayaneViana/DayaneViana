@@ -26,17 +26,9 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 
 ## 📈 Projetos em Destaque
 
-### 🔹 MCP – Sistema com IA Conversacional
-
-Projeto focado na integração de uma **IA conversacional** para realizar operações como cadastrar, buscar e gerenciar dados por meio de chat.
-
-* Python/TypeScript
-* API + IA
-* Foco em usabilidade e automação
-
-### 🔹 Projetos Front-end
-
-Interfaces modernas, acessíveis e organizadas, com atenção à experiência do usuário.
+| MCP – IA Conversacional                                                                                                                                                                                              | Projetos Front-end                                                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sistema com **IA conversacional** para realizar operações como cadastro, busca e gerenciamento de dados por meio de chat.<br><br>**Tecnologias:** Python, API, LLMs<br><br>Foco em automação, clareza e usabilidade. | Desenvolvimento de **interfaces modernas, acessíveis e bem estruturadas**, com atenção à experiência do usuário.<br><br>**Tecnologias:** React, HTML, CSS, JavaScript |
 
 ---
 
