@@ -55,8 +55,6 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
-## 📊 Estatísticas do GitHub
-
 <table>
   <tr>
     <td>
