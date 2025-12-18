@@ -2,10 +2,6 @@
 
 # ✨ Olá, eu sou a Day ✨
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=8B5CF6&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvimento+de+Software+e+IA;Aprendizado+contínuo+com+propósito" />
-</p>
-
 > *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."* — Cl 3:23
 
 Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idiomas e criação. Caminho com calma, constância e propósito — valorizando o que é bem feito, simples e verdadeiro. Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
