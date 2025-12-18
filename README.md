@@ -6,12 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=8B5CF6&width=500&lines=Estudante+de+Ciência+da+Computação;Desenvolvimento+de+Software+e+IA;Aprendizado+contínuo+com+propósito" />
 </p>
 
-
 > *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."* — Cl 3:23
 
 Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idiomas e criação. Caminho com calma, constância e propósito — valorizando o que é bem feito, simples e verdadeiro. Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ## 👾 Sobre mim
 
@@ -19,7 +18,7 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 * 💻 Estagiária em TI, atuando com **desenvolvimento**, **IA** e **chatbots**
 * 🤖 Interesse especial em **Inteligência Artificial**, **LLMs** e **Game Dev**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ## 🪛 Tecnologias & Ferramentas
 
@@ -27,7 +26,8 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 | ---------------------------------------- | --------------------- | ------------------------------------------------------------- | --------------------------------------------- |
 | Python<br>JavaScript / TypeScript<br>SQL | React<br>HTML5 / CSS3 | APIs REST<br>Chatbots com LLMs<br>Integrações com IA (Python) | Git & GitHub<br>Scrum<br>WordPress (wpgetapi) |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
+
 
 ## 📈 Projetos em Destaque
 
@@ -35,7 +35,7 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sistema com **IA conversacional** para realizar operações como cadastro, busca e gerenciamento de dados por meio de chat.<br><br>**Tecnologias:** Python, API, LLMs<br><br>Foco em automação, clareza e usabilidade. | Desenvolvimento de **interfaces modernas, acessíveis e bem estruturadas**, com atenção à experiência do usuário.<br><br>**Tecnologias:** React, HTML, CSS, JavaScript |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ## 📚 Atualmente estudando
 
@@ -44,14 +44,14 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 * Estruturas e boas práticas de software
 * Ruby on Rails
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ## 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6b21a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b5cf6&icon_color=a78bfa&title_color=7c3aed)
 
