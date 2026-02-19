@@ -62,12 +62,12 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&theme=tokyonight&hide_border=true" 
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneViana&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd&cache_seconds=1800" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneViana&layout=compact&theme=tokyonight&hide_border=true" 
       />
     </td>
   </tr>
