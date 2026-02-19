@@ -2,8 +2,6 @@
 
 # ✨ Olá, eu sou a Dayane ✨
 
-> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."* — Cl 3:23
-
 Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idiomas e criação. Caminho com calma, constância e propósito — valorizando o que é bem feito, simples e verdadeiro. Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
@@ -64,14 +62,12 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
   <tr>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6" 
-        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd&icon_color=8b5cf6&cache_seconds=1800" 
       />
     </td>
     <td>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneViana&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd" 
-        alt="Most Used Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneViana&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=c4b5fd&cache_seconds=1800" 
       />
     </td>
   </tr>
