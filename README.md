@@ -35,9 +35,6 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" />
 </p>
 
------------|-----------|---------------|--------|
-| Python<br>JavaScript / TypeScript<br>SQL | React<br>HTML5 / CSS3 | APIs REST<br>Chatbots com LLMs<br>Integrações com IA (Python) | Git & GitHub<br>Scrum<br>WordPress (wpgetapi) |
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
 ## 📈 Projetos em Destaque
