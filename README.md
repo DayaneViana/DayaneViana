@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e9d5ff,50:c4b5fd,100:7c3aed&text=&fontSize=0" />
 
-# ✨ Olá, eu sou a Day ✨
+# ✨ Olá, eu sou a Dayane ✨
 
 > *"Tudo o que fizerem, façam de todo o coração, como para o Senhor."* — Cl 3:23
 
