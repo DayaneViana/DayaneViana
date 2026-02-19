@@ -10,7 +10,7 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 
 ## 👾 Sobre mim
 
-* 🎓 Estudante de Ciência da Computação (6º semestre)
+* 🎓 Estudante de Ciência da Computação (7º semestre)
 * 💻 Estagiária em TI, atuando com **desenvolvimento**, **IA** e **chatbots**
 * 🤖 Interesse especial em **Inteligência Artificial**, **LLMs** e **Game Dev**
 
