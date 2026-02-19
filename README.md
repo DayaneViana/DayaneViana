@@ -58,19 +58,4 @@ Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idioma
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=DayaneViana&show_icons=true&theme=tokyonight&hide_border=true" 
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayaneViana&layout=compact&theme=tokyonight&hide_border=true" 
-      />
-    </td>
-  </tr>
-</table>
-
 ![snake animation](https://raw.githubusercontent.com/DayaneViana/DayaneViana/output/github-contribution-grid-snake.svg)
