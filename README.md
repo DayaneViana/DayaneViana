@@ -2,7 +2,7 @@
 
 # ✨ Olá, eu sou a Dayane ✨
 
-Sou estudante de **Ciência da Computação**, apaixonada por tecnologia, idiomas e criação. Caminho com calma, constância e propósito — valorizando o que é bem feito, simples e verdadeiro. Atualmente busco aprofundar meus conhecimentos em **Inteligência Artificial**, **LLMs** e desenvolvimento de soluções que aliem técnica, clareza e impacto real.
+Sou estudante do 7º semestre de Ciência da Computação e entusiasta do universo da Inteligência Artificial. Atualmente, trabalho na prática com automação e chatbots, buscando sempre expandir meus conhecimentos em LLMs. Sou apaixonada por tecnologia, aprendizado de novos idiomas e por transformar ideias complexas em soluções simples, funcionais e bem feitas.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:e9d5ff,100:7c3aed" />
 
